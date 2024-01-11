@@ -1,0 +1,28 @@
+.task{
+    font-family: 'chno';
+    padding: 6px;
+    margin:  10px 0 10px 0;
+    background-color: rgba(0, 0, 0, 0.555);
+    max-width: 1600px;
+    border: 2px solid rgb(168, 168, 168);
+    border-radius: 5px;
+}
+
+.buttonsTask{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btnCustom{
+    font-size: smaller;
+}
+
+.cardCustom{
+    background-color: rgba(0, 0, 0, 0.550);
+    font-size: smaller;
+    color: aliceblue;
+    padding: 10px;
+}
+

@@ -1,0 +1,13 @@
+.header {
+    height: 80px;
+    background: rgba(0, 0, 0, 0.300);;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.workTitle {
+    color: aliceblue;
+    letter-spacing: 3px;
+    font-size: larger;
+}
